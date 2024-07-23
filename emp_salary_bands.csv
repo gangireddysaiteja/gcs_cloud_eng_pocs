@@ -1,0 +1,21 @@
+ID,SALARY,DEPTNO,band
+1,50000.0,10,Entry Level
+2,55000.0,20,Entry Level
+3,60000.0,30,Entry Level
+4,65000.0,10,Associate
+5,70000.0,20,Associate
+6,75000.0,30,Mid Level
+7,80000.0,10,Mid Level
+8,85000.0,20,Senior
+9,90000.0,30,Senior
+10,95000.0,10,Lead
+11,100000.0,20,Lead
+12,105000.0,30,Manager
+13,110000.0,10,Manager
+14,115000.0,20,Senior Manager
+15,120000.0,30,Senior Manager
+16,125000.0,10,Director
+17,130000.0,20,Director
+18,135000.0,30,Senior Director
+19,140000.0,10,Senior Director
+20,145000.0,20,VP
